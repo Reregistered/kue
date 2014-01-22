@@ -1,0 +1,9 @@
+{
+  "name": "Kue Test Apps",
+  "version": "0.0.1",
+  "dependencies": {
+    "restify" : "2.0.4",
+    "node-guid" : "*"
+  },
+  "engines": { "node": ">= 0.6.0" }
+}
